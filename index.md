@@ -1,6 +1,4 @@
-### Version 1.0.0
-#### Fast Network Wide Password Spraying.
-![](https://raw.githubusercontent.com/spicesouls/exodus/main/exodus.png)
+## Exodus - Version 1.0.0
 
 ### 🛠 Installation
 
@@ -15,6 +13,8 @@ chmod +x exodus.py
 ```sh
 ./exodus.py [ IP / CIDR ] [ PROTOCOL ] -u [ USERNAME ] -p [ PASSWORD ] -t [ THREADS ]
 ```
+
+![](https://raw.githubusercontent.com/spicesouls/exodus/main/exodus.png)
 
 My Blog: https://beyondrootsec.wordpress.com
 
