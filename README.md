@@ -1,2 +1,3 @@
-# exodus
-Fast network wide password spraying.
+# Exodus
+### Fast network wide password spraying.
+
