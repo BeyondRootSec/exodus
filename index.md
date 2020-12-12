@@ -28,6 +28,20 @@ chmod +x exodus.py
 ./exodus.py [ IP / CIDR ] [ PROTOCOL ] -u [ USERNAME ] -p [ PASSWORD ] -t [ THREADS ]
 ```
 
+### 📖 Examples
+
+#### Finding weak SSH Logins
+
+```sh
+./exodus.py 192.168.1.0/24 ssh -u admin -p admin
+```
+
+#### Finding Services Accepting Anonymous FTP
+
+```sh
+./exodus.py 192.168.1.0/24 ftp -u anonymous
+```
+
 ![](https://raw.githubusercontent.com/spicesouls/exodus/main/exodus.png)
 
 My Blog: https://beyondrootsec.wordpress.com
