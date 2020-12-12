@@ -1,5 +1,19 @@
 ## Exodus - Version 1.0.0
 
+### ☑️ Currently Supported Protocols
+
+* SMB
+* SSH
+* FTP
+
+### 📌 To Do
+
+* TELNET
+* LDAP
+* KERBEOS
+* HTTP
+
+
 ### 🛠 Installation
 
 ```sh
